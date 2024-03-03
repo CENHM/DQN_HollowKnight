@@ -1,0 +1,7 @@
+pypiwin32~=223
+pywin32~=306
+mss~=9.0.1
+opencv-python~=4.9.0.80
+numpy~=1.24.4
+PyAutoGUI~=0.9.54
+torch~=2.0.1+cu118
